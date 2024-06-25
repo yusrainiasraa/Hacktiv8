@@ -1,0 +1,2 @@
+<h1 align="center">Ensemble Learning</h1>
+<h3 align="center">Bagging: Bagging Classifier, Extra Tree Classifier, Random Forest Classifier, Boosting: Extreme Gradient Boosting, Gradient Boosting, ADA Boosting, Voting</h3>
